@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Emrullah. I am a Software Engineer. 
+- 👀 I’m interested in C# Web Template and Blazor 
