@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emrullah. I am a Software Engineer. 
 
-<h3>Kodladıklarım</h3>
+<h3>Kod Bilgisi</h3>
 <hr>
   <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -18,7 +18,7 @@
   
  
 </p>
-<h3>Veri Tabanları</h3> 
+<h3>Veri Tabanı Bilgisi</h3> 
 <hr>
 <p>
  <img alt="Javascript" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
