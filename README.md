@@ -13,6 +13,7 @@
    <img alt="Bootstrap" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Javascript" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+  <img alt="angular" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" />
 </p>
 <hr>
 <h3>Databases</h3> 
