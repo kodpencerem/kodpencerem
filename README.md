@@ -31,8 +31,8 @@
 <hr>
 <p>
  <img alt="Javascript" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" />
- <img alt="Javascript" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
- <img alt="Javascript" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />  
+ <img alt="Javascript" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" />
+ <img alt="Javascript" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />  
   <img alt="Javascript" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff" /> 
   <img alt="Javascript" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" /> 
   
