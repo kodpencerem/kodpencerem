@@ -23,5 +23,7 @@
  <img alt="Javascript" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
  <img alt="Javascript" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />  
   <img alt="Javascript" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff" /> 
+  <img alt="Javascript" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" /> 
+  
 </p>
  
