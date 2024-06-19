@@ -1,4 +1,3 @@
-<hr>
 <h3>👋 Hi, I’m Emrullah. I am a Software Engineer. </h3>
 <hr>
 <h3>Codding</h3>
