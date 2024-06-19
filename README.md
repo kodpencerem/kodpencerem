@@ -4,6 +4,7 @@
   <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
+     <img alt=".NET" src="(https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff" />
    <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -14,6 +15,7 @@
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Javascript" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
   <img alt="angular" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" />
+    <img alt="angular" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
 </p>
 <hr>
 <h3>Databases</h3> 
