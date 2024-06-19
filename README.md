@@ -1,7 +1,7 @@
 <hr>
 <h3>👋 Hi, I’m Emrullah. I am a Software Engineer. </h3>
 <hr>
-<h3>Kod Bilgisi</h3>
+<h3>Codding</h3>
 <hr>
   <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -16,7 +16,7 @@
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Javascript" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
 </p>
-<h3>Veri Tabanı Bilgisi</h3> 
+<h3>Databases</h3> 
 <hr>
 <p>
  <img alt="Javascript" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
