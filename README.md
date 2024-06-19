@@ -36,4 +36,18 @@
   <img alt="Javascript" src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff" /> 
   
 </p>
- 
+
+ <h3>IDE/Code Editors</h3> 
+<hr>
+<p>
+<img alt="Javascript" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white" /> 
+  <img alt="Javascript" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" /> 
+ <img alt="Javascript" src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black" />
+ <img alt="Javascript" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" />
+ <img alt="Javascript" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" />  
+  <img alt="Javascript" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white" /> 
+  <img alt="Javascript" src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black" /> 
+  <img alt="Javascript" src="https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green" /> 
+  <img alt="Javascript" src="https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff" /> 
+  <img alt="Javascript" src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important" /> 
+</p>
