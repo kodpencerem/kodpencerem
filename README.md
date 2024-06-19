@@ -1,6 +1,6 @@
 <h3>👋 Hi, I’m Emrullah. I am a Software Engineer. </h3>
 <hr>
-<h3>Codding</h3>
+<h3>Programming Languages</h3>
   <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
