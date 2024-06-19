@@ -1,7 +1,6 @@
 <h3>👋 Hi, I’m Emrullah. I am a Software Engineer. </h3>
 <hr>
 <h3>Codding</h3>
-
   <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
@@ -15,30 +14,26 @@
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Javascript" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
 </p>
-<h3>Databases</h3> 
 <hr>
+<h3>Databases</h3> 
 <p>
  <img alt="Javascript" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
  <img alt="Javascript" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
  <img alt="Javascript" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />  
   <img alt="Javascript" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff" /> 
   <img alt="Javascript" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" /> 
-  
 </p>
-
-<h3>Frameworks</h3> 
 <hr>
+<h3>Frameworks</h3> 
 <p>
  <img alt="Javascript" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" />
  <img alt="Javascript" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" />
  <img alt="Javascript" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />  
   <img alt="Javascript" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" /> 
   <img alt="Javascript" src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff" /> 
-  
 </p>
-
- <h3>IDE/Code Editors</h3> 
 <hr>
+ <h3>IDE/Code Editors</h3> 
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white" /> 
   <img alt="Javascript" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" /> 
@@ -51,14 +46,13 @@
   <img alt="Javascript" src="https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff" /> 
   <img alt="Javascript" src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important" /> 
 </p>
-
-<h3>Operating Systems</h3> 
 <hr>
+<h3>Operating Systems</h3> 
 <p>
- <img alt="Javascript" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" />
- <img alt="Javascript" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" />
- <img alt="Javascript" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />  
-  <img alt="Javascript" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" /> 
-  <img alt="Javascript" src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff" /> 
+ <img alt="Javascript" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff" />
+ <img alt="Javascript" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+ <img alt="Javascript" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />  
+  <img alt="Javascript" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" /> 
+  <img alt="Javascript" src="https://img.shields.io/badge/Windows_Server-0078D6?logo=windows" /> 
   
 </p>
