@@ -1,8 +1,7 @@
 <h3>👋 Hi, I’m Emrullah. I am a Software Engineer. </h3>
 <p>
-  <a href="https://www.linkedin.com/in/kodpencerem/"> <img alt="Javascript" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
- 
- <img alt="Javascript" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <a href="https://www.linkedin.com/in/kodpencerem/"> <img alt="Javascript" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a> 
 </p>
 <hr>
 <h3>Programming Languages</h3>
