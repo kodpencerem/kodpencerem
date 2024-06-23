@@ -83,11 +83,10 @@
         <img alt="Javascript" src="https://img.shields.io/badge/Windows_Server-0078D6?logo=windows" />
     </p>
     <hr>
-       
+    
     <p><img align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=kodpencerem&show_icons=true&locale=en&layout=compact"
             alt="kodpencerem" /></p>
-
     <p>&nbsp;<img align="center"
             src="https://github-readme-stats.vercel.app/api?username=kodpencerem&show_icons=true&locale=en"
             alt="kodpencerem" /></p>
