@@ -61,6 +61,11 @@
  <img alt="Javascript" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
  <img alt="Javascript" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />  
   <img alt="Javascript" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" /> 
-  <img alt="Javascript" src="https://img.shields.io/badge/Windows_Server-0078D6?logo=windows" /> 
-  
+  <img alt="Javascript" src="https://img.shields.io/badge/Windows_Server-0078D6?logo=windows" />   
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kodpencerem&show_icons=true&locale=en&layout=compact" alt="kodpencerem" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kodpencerem&show_icons=true&locale=en" alt="kodpencerem" /></p>
+<br/>
+
